@@ -1,0 +1,3 @@
+import Telinha
+
+telinha = Telinha()
